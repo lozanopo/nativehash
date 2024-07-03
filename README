@@ -5,7 +5,18 @@ A really simple wrapper around CommonCrypto/CommonDigest.h implemented as an App
 
 Speed
 -------------------------------------------
-Using native sha256 hashing is about 9.71 times faster than a javascript implementation.
+Using native sha256 hashing is about 9.71 
+
+
+
+
+
+
+
+
+
+
+times faster than a javascript implementation.
 
 Usage
 -------------------------------------------
